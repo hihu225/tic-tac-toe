@@ -2,7 +2,6 @@
 
 A responsive, interactive Tic-Tac-Toe game built with vanilla HTML, CSS, and JavaScript that works on both desktop and mobile devices.
 
-![Tic-Tac-Toe Game Screenshot](screenshot.png) *(Note: You can add an actual screenshot later)*
 
 ## Features
 
